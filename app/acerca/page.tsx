@@ -25,13 +25,13 @@ export default function AboutPage() {
           <div className="space-y-4 flex flex-col justify-center">
             <h2 className="text-2xl font-bold">Hola, soy Samantha</h2>
             <p className="text-muted-foreground">
-              Con más de 8 años de experiencia en diseño gráfico, también conocida como Samaneli, he trabajado con
-              marcas nacionales e internacionales para crear soluciones visuales que conectan con las audiencias y
+              Licenciada en gestión de la comunicación digital (Diseño Gráfico), también conocida como Samaneli, cuento con 2 años de experiencia, he trabajado con
+              marcas y pequeños negocios locales para manejar sus redes sociales, crear contenido y soluciones visuales que conectan con las audiencias y
               cumplen objetivos de negocio.
             </p>
             <p className="text-muted-foreground">
-              Mi enfoque combina creatividad, estrategia y atención al detalle para desarrollar diseños que no solo son
-              estéticamente atractivos, sino también funcionales y efectivos.
+              Mi enfoque combina creatividad, planificación, estrategia y atención al detalle para desarrollar diseños que no solo son
+              estéticamente atractivos, sino también funcionales y efectivos. Así mismo dar especial atención al cliente.
             </p>
             <div className="flex gap-4 mt-4">
               <Button asChild>
