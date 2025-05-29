@@ -24,8 +24,8 @@ export const projects: Project[] = [
     testimonial: {
       quote:
         "El trabajo de Samantha transformó completamente nuestra marca. La nueva identidad captura perfectamente nuestra esencia y ha sido fundamental para nuestro crecimiento.",
-      author: "María Rodríguez",
-      role: "Fundadora de Café Aurora",
+      author: "Corinthia Bautista",
+      role: "Fundadora de Corinthia Petite/Atelier",
     },
   },
   {
