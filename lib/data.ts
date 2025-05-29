@@ -2,7 +2,7 @@ import type { Project } from "./types"
 
 export const projects: Project[] = [
   {
-    id: "Corinthia-Petite",
+    id: "corinthia-petite",
     title: "Corinthia Petite",
     description: "Identidad visual para una cadena de cafeterías premium con enfoque en sostenibilidad",
     longDescription:
