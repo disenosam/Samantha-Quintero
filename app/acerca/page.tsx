@@ -156,7 +156,10 @@ export default function AboutPage() {
 
         <div className="flex justify-center">
           <Button asChild size="lg">
-            <a href="mailto:thedisenoclub@gmail.com">Trabajemos juntos</a>
+             <Link href="/#contacto">
+                      Trabajemos juntos <ArrowRight className="ml-2 h-4 w-4" />
+                    </Link>
+            
           </Button>
         </div>
       </div>
