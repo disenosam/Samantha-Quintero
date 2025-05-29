@@ -2,8 +2,8 @@ import type { Project } from "./types"
 
 export const projects: Project[] = [
   {
-    id: "branding-cafe-aurora",
-    title: "Branding Café Aurora",
+    id: "Corinthia-Petite",
+    title: "Corinthia Petite",
     description: "Identidad visual para una cadena de cafeterías premium con enfoque en sostenibilidad",
     longDescription:
       "Desarrollo completo de identidad de marca para Café Aurora, una cadena de cafeterías premium que se enfoca en ingredientes orgánicos y prácticas sostenibles. El proyecto incluyó logotipo, sistema visual, aplicaciones y guía de estilo.",
