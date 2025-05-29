@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="grid gap-8 md:grid-cols-2">
           <div>
             <img
-              src="/placeholder.svg?height=500&width=400"
+              src="/Samaneli.jpeg?height=500&width=400"
               alt="Foto de perfil"
               width={400}
               height={500}
