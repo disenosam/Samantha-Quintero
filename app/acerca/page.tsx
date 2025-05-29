@@ -99,18 +99,19 @@ export default function AboutPage() {
           <div className="space-y-8">
             <div className="space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-lg">Directora Creativa</h3>
-                <span className="text-sm text-muted-foreground">2022 - Presente</span>
+                <h3 className="font-bold text-lg">Diseñadora Gráfica Y Gestión De Redes</h3>
+                <span className="text-sm text-muted-foreground">2025 - Presente</span>
               </div>
-              <p className="text-muted-foreground">Estudio Creativo Propio</p>
+              <p className="text-muted-foreground">Corinthia Petite</p>
               <p className="text-sm">
-                Dirección de proyectos de diseño para clientes nacionales e internacionales. Gestión de equipo creativo
-                y desarrollo de estrategias visuales.
+                Creación de piezas publicitarias, creación de contenido, community manager, administración de CMS, 
+                estrategias de redacción y comunicación digital: Mailing, redes, sitio web, etc.
               </p>
+               
             </div>
             <div className="space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-lg">Diseñadora Senior</h3>
+                <h3 className="font-bold text-lg">Diseñadora De Editorial</h3>
                 <span className="text-sm text-muted-foreground">2018 - 2022</span>
               </div>
               <p className="text-muted-foreground">Agencia Creativa XYZ</p>
@@ -121,8 +122,8 @@ export default function AboutPage() {
             </div>
             <div className="space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-lg">Diseñadora Gráfica</h3>
-                <span className="text-sm text-muted-foreground">2015 - 2018</span>
+                <h3 className="font-bold text-lg">Diseñadora Gráfica Junior</h3>
+                <span className="text-sm text-muted-foreground">2023 - 2024</span>
               </div>
               <p className="text-muted-foreground">Editorial Moderna</p>
               <p className="text-sm">
