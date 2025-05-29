@@ -18,7 +18,7 @@ export const projects: Project[] = [
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
     ],
-    categories: ["Branding", "Gestión De Redes Sociales", "community manager" "Creación De Contenido" "Auxiliar En Marketing"],
+    categories: ["Branding", "Gestión De Redes Sociales", "Community Manager" "Creación De Contenido" "Auxiliar En Marketing"],
     year: "2025",
     client: "Corinthia Petite",
     testimonial: {
