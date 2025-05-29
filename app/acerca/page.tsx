@@ -38,7 +38,7 @@ export default function AboutPage() {
                 <a href="mailto:thedisenoclub@gmail.com">Enviar email</a>
               </Button>
               <Button asChild variant="outline">
-                <a href="/cv.pdf" download>
+                <a href="/samantha q-cv.pdf" download>
                   Descargar CV
                 </a>
               </Button>
