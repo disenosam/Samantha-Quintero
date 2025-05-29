@@ -138,15 +138,15 @@ export default function AboutPage() {
           <div className="space-y-4">
             <div className="space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-lg">Máster en Diseño y Dirección de Arte</h3>
-                <span className="text-sm text-muted-foreground">2014 - 2015</span>
+                <h3 className="font-bold text-lg">Bootcamp Diseño UX UI</h3>
+                <span className="text-sm text-muted-foreground">2025</span>
               </div>
-              <p className="text-muted-foreground">Escuela de Diseño Superior</p>
+              <p className="text-muted-foreground">Universidad Autónoma de Durango</p>
             </div>
             <div className="space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-lg">Licenciatura en Diseño Gráfico</h3>
-                <span className="text-sm text-muted-foreground">2010 - 2014</span>
+                <h3 className="font-bold text-lg">Licenciatura en Diseño Gráfico Digital</h3>
+                <span className="text-sm text-muted-foreground">2021 - 2025</span>
               </div>
               <p className="text-muted-foreground">Universidad de Artes Visuales</p>
             </div>
