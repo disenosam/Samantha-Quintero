@@ -23,7 +23,7 @@ export const projects: Project[] = [
     client: "Corinthia Petite",
     testimonial: {
       quote:
-        "El trabajo de Samantha nos ayudó completamente a nuestro negocio. Aumento nuestro número de clientes con su atención al cliente y la creacion de piezas publicitarias. Ha sido fundamental para nuestro crecimiento.",
+        "El trabajo de Samantha nos ayudó completamente a nuestro negocio. Aumentó nuestro número de compradores con su atención al cliente y la creacion de piezas publicitarias. Ha sido fundamental para nuestro crecimiento.",
       author: "Corinthia Bautista",
       role: "Fundadora de Corinthia Petite/Atelier",
     },
