@@ -18,9 +18,9 @@ export const projects: Project[] = [
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
     ],
-    categories: ["Branding", "Identidad Visual", "Packaging"],
-    year: "2023",
-    client: "Café Aurora",
+    categories: ["Branding", "Gestión De Redes Sociales", "community manager" "Creación De Contenido" "Auxiliar En Marketing"],
+    year: "2025",
+    client: "Corinthia Petite",
     testimonial: {
       quote:
         "El trabajo de Samantha transformó completamente nuestra marca. La nueva identidad captura perfectamente nuestra esencia y ha sido fundamental para nuestro crecimiento.",
