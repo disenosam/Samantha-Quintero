@@ -11,14 +11,20 @@ export const projects: Project[] = [
       "Crear una identidad que comunicara los valores de calidad y sostenibilidad, diferenciándose en un mercado saturado de cafeterías.",
     solution:
       "Desarrollamos un sistema visual elegante con elementos orgánicos y una paleta de colores terrosos que transmite calidez y conexión con la naturaleza.",
-    image: "/cory petite.jpeg?height=400&width=600",
+    image: "/cory-petite.jpeg?height=400&width=600",
     gallery: [
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
     ],
-    categories: ["Branding", "Gestión De Redes Sociales", "Community Manager" "Creación De Contenido" "Auxiliar En Marketing"],
+    categories: [
+  "Branding",
+  "Gestión De Redes Sociales",
+  "Community Manager",
+  "Creación De Contenido",
+  "Auxiliar En Marketing"
+],
     year: "2025",
     client: "Corinthia Petite",
     testimonial: {
