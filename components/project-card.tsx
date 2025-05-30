@@ -14,7 +14,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
     <Card className="overflow-hidden group transition-all duration-300 hover:shadow-lg">
       <div className="relative overflow-hidden">
         <img
-          src={project.image || "/cory petite.jpeg"}
+          src={project.image || "/cory-petite.jpeg"}
           alt={project.title}
           width={400}
           height={300}
